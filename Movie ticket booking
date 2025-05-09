@@ -110,6 +110,9 @@ public class MovieTicketBookingSystem {
         movies.add(new Movie("KGF: Chapter 2", "Hindi", Arrays.asList("12:00 PM", "4:00 PM", "8:00 PM"), 50, 250));
         movies.add(new Movie("Jawan", "Hindi", Arrays.asList("10:30 AM", "1:30 PM", "5:30 PM"), 40, 180));
         movies.add(new Movie("PS2", "Tamil", Arrays.asList("9:00 AM", "12:00 PM", "6:00 PM"), 45, 160));
+        movies.add(new Movie("Avengers: Endgame", "English", Arrays.asList("10:00 AM", "2:00 PM", "6:00 PM"), 40, 250));
+        movies.add(new Movie("Maanagaram", "Tamil", Arrays.asList("11:00 AM", "3:00 PM", "7:00 PM"), 30, 170));
+
     }
 
     static void registerUser() {
