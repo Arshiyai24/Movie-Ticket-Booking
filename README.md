@@ -54,3 +54,8 @@ This project is a **Movie Ticket Booking System** that allows users to register,
 * **Deployment:** Heroku / AWS
 
 ## Output
+![Image](https://github.com/user-attachments/assets/e63a9ecb-0939-485b-b8fe-aba94742f8b3)
+![Image](https://github.com/user-attachments/assets/2a53644c-493a-48aa-892b-b6c70edb5d0a)
+![Image](https://github.com/user-attachments/assets/9e584141-96bb-4393-b36e-dc7aacf90f21)
+![Image](https://github.com/user-attachments/assets/c83a8298-891b-412c-9d90-d21eab220e74)
+![Image](https://github.com/user-attachments/assets/8b45a8c0-8269-45d4-871a-3caecdd6b9df)
